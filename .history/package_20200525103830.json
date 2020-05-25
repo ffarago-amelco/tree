@@ -1,9 +1,9 @@
 {
-  "_from": "custom-tree",
-  "_id": "custom-tree@3.2.2",
+  "_from": "rc-tree",
+  "_id": "rc-tree@3.2.2",
   "_inBundle": false,
   "_integrity": "sha512-eF4vJJpMnTmPufxplZ2xg+P3ogfFoUfZkZXV2qasC6JSTf+13jB7pA1xXjCwJ86V+7PqEGUsE/mljLusng0XEA==",
-  "_location": "/custom-tree",
+  "_location": "/rc-tree",
   "_phantomChildren": {
     "@ant-design/css-animation": "1.7.2",
     "classnames": "2.2.6",
@@ -13,9 +13,9 @@
   "_requested": {
     "type": "tag",
     "registry": true,
-    "raw": "custom-tree",
-    "name": "custom-tree",
-    "escapedName": "custom-tree",
+    "raw": "rc-tree",
+    "name": "rc-tree",
+    "escapedName": "rc-tree",
     "rawSpec": "",
     "saveSpec": null,
     "fetchSpec": "latest"
@@ -24,9 +24,9 @@
     "#USER",
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/custom-tree/-/custom-tree-3.2.2.tgz",
+  "_resolved": "https://registry.npmjs.org/rc-tree/-/rc-tree-3.2.2.tgz",
   "_shasum": "9822c4929570156a2170037a4faeb010cae10702",
-  "_spec": "custom-tree",
+  "_spec": "rc-tree",
   "_where": "/Users/ffarago/Works/trading-mono",
   "author": {
     "name": "smith3816@gmail.com"
@@ -85,7 +85,7 @@
   "license": "MIT",
   "main": "./lib/index",
   "module": "./es/index",
-  "name": "custom-tree",
+  "name": "rc-tree",
   "peerDependencies": {
     "react": "*",
     "react-dom": "*"
